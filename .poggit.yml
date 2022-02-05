@@ -5,4 +5,5 @@ branches:
 projects:
   JoinQuitMSG:
     path: ""
+    icon: icon.JPEG
 ...
