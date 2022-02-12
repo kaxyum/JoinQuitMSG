@@ -1,5 +1,5 @@
 name: jqmsg
-main: jqmsg\Main
+main: kaxyum\jqmsg\Main
 api: 4.0.0
 version: 1.0.0
 author: kaxyum
