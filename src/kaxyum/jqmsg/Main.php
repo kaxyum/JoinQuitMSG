@@ -1,6 +1,6 @@
 <?php
 
-namespace jqmsg;
+namespace kaxyum/jqmsg;
 
 
 use pocketmine\event\Listener;
